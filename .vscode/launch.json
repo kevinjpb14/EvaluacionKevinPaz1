@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-EvaluacionKevinPazApplication<EvaluacionKevinPaz>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.example.EvaluacionKevinPaz.EvaluacionKevinPazApplication",
+            "projectName": "EvaluacionKevinPaz",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
